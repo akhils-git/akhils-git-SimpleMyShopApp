@@ -1,0 +1,19 @@
+My Shop
+=======
+
+Customer		: sibu
+Address			: konni pta kerala
+PIN			: 986521
+Mobile			: 9946522522
+Email			: sdsads@dffdfd.com
+Purchase date		: 4/25/2016 1:04:41 PM
+
+id	Product Name		Company Name		Quntity		Price
+==	============		============		=======		=====
+0	CBR         		Honda       		1      		150000/-
+1	CT100       		Bajaj       		1      		36000/-
+2	Karishma    		Hero Honda  		1      		92000/-
+3	Pulsar      		Bajaj       		1      		86000/-
+==	============		============		=======		=====
+Total Items		: 4
+Total Amount		: 364000/-

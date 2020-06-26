@@ -1,0 +1,17 @@
+My Shop
+=======
+
+Customer		: sachin
+Address			: sddsd
+PIN			: 433433
+Mobile			: 4444444444
+Email			: dfdf@dsfdf
+Purchase date		: 5/19/2016 12:33:46 PM
+
+id	Product Name		Company Name		Quntity		Price
+==	============		============		=======		=====
+0	CT1000      		Bajaj       		1      		23232/-
+1	Pulsar      		Bajaj       		1      		45555/-
+==	============		============		=======		=====
+Total Items		: 2
+Total Amount		: 68787/-

@@ -1,0 +1,17 @@
+My Shop
+=======
+
+Customer		: Akhil
+Address			: PTA
+PIN			: 888888
+Mobile			: 5555555555
+Email			: grtr@fgfkgkjf
+Purchase date		: 5/20/2016 11:33:28 AM
+
+id	Product Name		Company Name		Quntity		Price
+==	============		============		=======		=====
+0	CT1000      		bajaj       		2      		40000/-
+1	Pulsar      		Bajaj       		3      		240000/-
+==	============		============		=======		=====
+Total Items		: 2
+Total Amount		: 280000/-

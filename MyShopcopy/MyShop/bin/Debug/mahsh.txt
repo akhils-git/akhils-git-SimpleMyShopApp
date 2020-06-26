@@ -1,0 +1,17 @@
+My Shop
+=======
+
+Customer		: mahsh
+Address			: dsfsd
+PIN			: 989898
+Mobile			: 9898989898
+Email			: dsfds@dfdf
+Purchase date		: 5/18/2016 5:10:22 PM
+
+id	Product Name		Company Name		Quntity		Price
+==	============		============		=======		=====
+0	CBR         		Honda       		3      		135666/-
+1	Pulsar      		Bajaj       		2      		90444/-
+==	============		============		=======		=====
+Total Items		: 2
+Total Amount		: 226110/-
